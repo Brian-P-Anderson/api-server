@@ -1,4 +1,5 @@
 const userRoutes = (app, fs) => {
+  const dataPath = './data/users.json';
 
   // refactored helper methods
   const readFile = (callback, returnJson = false, filePath = dataPath, encoding = 'utf8') => {

@@ -1,0 +1,19 @@
+{
+  "name": "api-server",
+  "version": "0.0.1",
+  "description": "Adaptation from Rob Kendal's blog at: https://robkendal.co.uk/blog/how-to-build-a-restful-node-js-api-server-using-json-files/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-P-Anderson/api-server.git"
+  },
+  "author": "Brian P Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brian-P-Anderson/api-server/issues"
+  },
+  "homepage": "https://github.com/Brian-P-Anderson/api-server#readme"
+}
